@@ -1,5 +1,8 @@
 _repo: Moby-Dick-Or-The-Whale_2489
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Melville, Herman
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
 description: 'See also Etext #15, Etext #2701, and a computer-generated audio file,
   Etext #9147.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2489#Moby-Dick-Or-The-Whale
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
